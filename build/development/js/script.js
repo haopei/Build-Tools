@@ -1,1 +1,1 @@
-function winning(){console.log("winning is working")}
+function winning(){var n=1;console.log(n)}
