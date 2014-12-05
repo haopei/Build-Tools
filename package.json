@@ -1,0 +1,17 @@
+{
+  "name": "Workflow",
+  "version": "1.0.0",
+  "description": "Example workflow environment involving npm, gulp, sass, bower.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Haopei",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-rename": "^1.2.0",
+    "gulp-uglify": "^1.0.1",
+    "uglify": "^0.1.0"
+  }
+}
